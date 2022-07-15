@@ -1,0 +1,56 @@
+>>> Initialized
+>>> Page fault at address 1242
+>>> Loading page 0 to frame 0
+>>> Value at logical address 1242 (physical address 1242) is 0
+>>> Written 124 to address 1546 (physical address 1546)
+>>> Written 124 to address 1546 (physical address 1546)
+>>> Value at logical address 2356 (physical address 2356) is 0
+>>> Page fault at address 5788
+>>> Loading page 1 to frame 1
+>>> Written -22 to address 5788 (physical address 5788)
+>>> Value at logical address 5788 (physical address 5788) is -22
+>>> Written -235 to address 15 (physical address 15)
+>>> Page fault at address 23456
+>>> Loading page 5 to frame 2
+>>> Value at logical address 23456 (physical address 11168) is 0
+>>> Written 1 to address 23456 (physical address 11168)
+>>> Page fault at address 77777
+>>> Loading page 18 to frame 3
+>>> Value at logical address 77777 (physical address 16337) is 0
+>>> Page fault at address 33333
+>>> Saving page 0 to swap block 0
+>>> Evicting page 0 from frame 0
+>>> Loading page 8 to frame 0
+>>> Value at logical address 33333 (physical address 565) is 0
+>>> Written 4 to address 33333 (physical address 565)
+>>> Page fault at address 55555
+>>> Saving page 1 to swap block 1
+>>> Evicting page 1 from frame 1
+>>> Loading page 13 to frame 1
+>>> Written 3 to address 55555 (physical address 6403)
+>>> Written 2 to address 23423 (physical address 11135)
+>>> Page fault at address 14233
+>>> Evicting page 18 from frame 3
+>>> Loading page 3 to frame 3
+>>> Written 2 to address 14233 (physical address 14233)
+>>> Page fault at address 44444
+>>> Saving page 5 to swap block 5
+>>> Evicting page 5 from frame 2
+>>> Loading page 10 to frame 2
+>>> Written 2 to address 44444 (physical address 11676)
+>>> Page fault at address 57575
+>>> Saving page 8 to swap block 8
+>>> Evicting page 8 from frame 0
+>>> Loading page 14 to frame 0
+>>> Written 2 to address 57575 (physical address 231)
+>>> Page fault at address 12121
+>>> Saving page 13 to swap block 13
+>>> Evicting page 13 from frame 1
+>>> Loading page 2 to frame 1
+>>> Written 2 to address 12121 (physical address 8025)
+>>> Page fault at address 5
+>>> Saving page 3 to swap block 3
+>>> Evicting page 3 from frame 3
+>>> Loading page 0 from swap block 0 to frame 3
+>>> Value at logical address 5 (physical address 12293) is 0
+>>> Value at logical address 11 (physical address 12299) is 0

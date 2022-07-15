@@ -1,0 +1,22 @@
+Init 131072 16 1024 4
+Read 1242
+Write 1546 124
+Write 1546 124
+Read 2356
+Write 5788 -22
+Read 5788
+Write 15 -235
+Read 23456
+Write 23456 1
+Read 77777
+Read 33333
+Write 33333 4
+Write 55555 3
+Write 23423 2
+Write 14233 2
+Write 44444 2
+Write 57575 2
+Write 12121 2
+Read 5
+Read 11
+Exit
